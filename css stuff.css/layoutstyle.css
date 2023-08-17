@@ -1,0 +1,47 @@
+
+body {
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+    
+
+.head {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 485px;
+    position: inherit;
+}
+
+.leftwall {
+    top: 500px;
+    left: 5px;
+    width: 100px;
+    bottom: 5px;
+    position: absolute;
+}
+
+.center {
+    top: 500px;
+    left: 114px;
+    right: 85px;
+    bottom: -100px;
+    position: absolute;
+    background-color: rgb(245, 129, 129);
+    border-color: rgb(0, 0, 0);
+    border-width: 5px;
+}
+
+.rightwall {
+    top: 500px;
+    right: 5px;
+    width: 100px;
+    bottom: 5px;
+    position: absolute;
+}
+
+
+
+
+

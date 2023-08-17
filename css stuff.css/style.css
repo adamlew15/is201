@@ -1,0 +1,42 @@
+
+
+body {
+    text-align: center;
+    background-color: rgb(232, 59, 59);
+}
+
+
+a { color:  black;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: large  ;
+    border: 2px solid;
+    padding: 2px;
+    margin: 2px;
+}
+
+li {
+    list-style-type:none;
+}
+
+.title  {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100;
+    color: aliceblue;
+    font-size: 35px ;
+}
+
+
+.custom{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+}
+
+.mariovid{
+    width: 400px;
+    height: 225px;
+}
+
+.left{
+    text-align: left;
+}
