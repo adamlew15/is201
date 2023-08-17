@@ -25,8 +25,8 @@ body {
 .center {
     top: 500px;
     left: 114px;
-    right: 85px;
-    bottom: -100px;
+    right: 60px;
+    bottom: -120px;
     position: absolute;
     background-color: rgb(245, 129, 129);
     border-color: rgb(0, 0, 0);
